@@ -270,7 +270,7 @@ This solution was built collaboratively with **GitHub Copilot (agent mode)**.
 3. **Implementation.** The agent scaffolded the project, wrote the local
    embedding layer, the novelty engine, the Gemini generator with a deterministic
    fallback, the labeled golden dataset, and the pytest suite.
-4. **Empirical tuning.** Rather than guessing constants, the agent wrote a
+4. **Empirical tuning.** Rather than guessing constants, I asked the agent to write a
    diagnostic that printed per-category score breakdowns, identified that the
    relevance gate was over-penalizing genuinely-novel on-topic items and that
    lexical novelty was inflating paraphrases, then adjusted the semantic/lexical
