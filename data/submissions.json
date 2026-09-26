@@ -1,0 +1,363 @@
+{
+  "fixed_content_id": "fixed-001",
+  "note": "Labels are ground truth for evaluation only. 'paraphrase'=near-duplicate of a common opinion (expect LOW novelty). 'novel'=distinct on-topic angle (expect HIGH novelty). 'offtopic'=novel wording but irrelevant to fixed content (expect LOW after relevance gate). 'normal'=ordinary on-topic comment.",
+  "submissions": [
+    {
+      "id": "s01",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Great step for cleaner air",
+      "body": "Banning new gas cars by 2030 is a great step for cleaner air and a healthier city."
+    },
+    {
+      "id": "s02",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "A great move for clean air",
+      "body": "This is a great move that will give us cleaner air and a healthier place to live."
+    },
+    {
+      "id": "s03",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Cleaner air ahead",
+      "body": "Getting rid of new gasoline cars by 2030 means cleaner air and a healthier community for everyone."
+    },
+    {
+      "id": "s04",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Healthier city, cleaner air",
+      "body": "Ending gas car sales is great for our air quality and will make the city much healthier."
+    },
+    {
+      "id": "s05",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Good for the environment",
+      "body": "Banning gasoline car sales by 2030 is great for the environment and cleaner air for all of us."
+    },
+    {
+      "id": "s06",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "A win for clean air",
+      "body": "This ban is a win for clean air and a healthier future in Riverton."
+    },
+    {
+      "id": "s07",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Cleaner and healthier",
+      "body": "Removing new gas cars will make the air cleaner and the city healthier by 2030."
+    },
+    {
+      "id": "s08",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Fresh air for Riverton",
+      "body": "A great decision that brings cleaner, fresher air and a healthier city to everyone here."
+    },
+    {
+      "id": "s09",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Better air quality",
+      "body": "Ending gasoline car sales by 2030 is great news for air quality and public health."
+    },
+    {
+      "id": "s10",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Healthy air is coming",
+      "body": "This great policy will clean up our air and make Riverton a healthier place to live."
+    },
+    {
+      "id": "s11",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Clean air, healthy city",
+      "body": "Banning new gas cars is great for cleaner air and a healthier city overall."
+    },
+    {
+      "id": "s12",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "A great clean-air decision",
+      "body": "Great decision by the council; cleaner air and a healthier community are worth it."
+    },
+    {
+      "id": "s13",
+      "label": "paraphrase",
+      "stance": "Support",
+      "headline": "Cleaner air wins",
+      "body": "Phasing out gasoline cars by 2030 is great for clean air and a healthier population."
+    },
+    {
+      "id": "s14",
+      "label": "novel",
+      "stance": "Oppose",
+      "headline": "Independent mechanics face collapse",
+      "body": "Thousands of small engine-repair shops rely on combustion vehicles; the ban could wipe out these trades and their apprenticeship pipelines unless retraining grants for EV servicing are funded now."
+    },
+    {
+      "id": "s15",
+      "label": "novel",
+      "stance": "Neutral",
+      "headline": "What happens to classic car culture?",
+      "body": "Vintage combustion vehicles are rolling heritage. The policy should clarify exemptions for collector plates and weekend show meets, or an entire hobbyist community loses its legal footing."
+    },
+    {
+      "id": "s16",
+      "label": "novel",
+      "stance": "Oppose",
+      "headline": "The grid cannot handle this",
+      "body": "Peak evening charging could overload substations in older neighborhoods. Without transformer upgrades and smart-charging tariffs, we risk brownouts long before 2030 arrives."
+    },
+    {
+      "id": "s17",
+      "label": "novel",
+      "stance": "Neutral",
+      "headline": "Apartment dwellers left behind",
+      "body": "Renters in high-rise buildings have nowhere to install a home charger. Curbside charging rights and landlord mandates must be settled or millions simply cannot comply."
+    },
+    {
+      "id": "s18",
+      "label": "novel",
+      "stance": "Oppose",
+      "headline": "Cold snaps kill EV range",
+      "body": "Battery range drops sharply in winter. For rural commuters driving ninety minutes on unheated highways, the current EV lineup is not yet a safe replacement."
+    },
+    {
+      "id": "s19",
+      "label": "novel",
+      "stance": "Neutral",
+      "headline": "Used-car market shock",
+      "body": "Announcing a hard cutoff may crater resale values of gasoline vehicles years early, trapping owners with negative equity and loans larger than their cars are worth."
+    },
+    {
+      "id": "s20",
+      "label": "novel",
+      "stance": "Oppose",
+      "headline": "Emergency fleets need exemptions",
+      "body": "Ambulances and fire trucks require guaranteed range and rapid refuel. A blanket ban must carve out first-responder fleets until high-capacity charging is proven reliable."
+    },
+    {
+      "id": "s21",
+      "label": "novel",
+      "stance": "Neutral",
+      "headline": "Delivery businesses need a timeline",
+      "body": "Last-mile couriers run tight margins. Give small logistics firms a staggered compliance schedule and depot-charging subsidies, not a single 2030 wall for everyone."
+    },
+    {
+      "id": "s22",
+      "label": "novel",
+      "stance": "Support",
+      "headline": "Noise pollution will fall too",
+      "body": "Everyone talks about tailpipe fumes, but quieter electric streets mean better sleep, calmer neighborhoods, and measurable drops in stress-related illness near arterial roads."
+    },
+    {
+      "id": "s23",
+      "label": "novel",
+      "stance": "Oppose",
+      "headline": "Where will the lithium come from?",
+      "body": "Scaling EVs demands battery minerals mined under harsh conditions abroad. A truly green policy must address supply-chain ethics, not just local tailpipe counts."
+    },
+    {
+      "id": "s24",
+      "label": "novel",
+      "stance": "Neutral",
+      "headline": "Rethink parking as charging real estate",
+      "body": "Every curb becomes potential charging infrastructure. The city should rewrite zoning so new lots reserve conduit capacity, turning parking policy into energy policy."
+    },
+    {
+      "id": "s25",
+      "label": "novel",
+      "stance": "Support",
+      "headline": "Local EV manufacturing jobs",
+      "body": "If Riverton pairs the ban with incentives for a battery-assembly plant, the transition could anchor a new manufacturing cluster and thousands of skilled green jobs."
+    },
+    {
+      "id": "s26",
+      "label": "novel",
+      "stance": "Oppose",
+      "headline": "Tourism road-trippers may skip us",
+      "body": "Out-of-town visitors driving older gas cars might avoid a city they fear being fined in. Clarify that the ban targets sales, not through-traffic, before tourism suffers."
+    },
+    {
+      "id": "s27",
+      "label": "novel",
+      "stance": "Neutral",
+      "headline": "Insurance models are unprepared",
+      "body": "EV repair costs and battery-fire risk differ wildly from combustion cars. Insurers need actuarial data now, or premiums will spike unpredictably after 2030."
+    },
+    {
+      "id": "s28",
+      "label": "novel",
+      "stance": "Support",
+      "headline": "Health savings could fund it",
+      "body": "Fewer asthma hospitalizations mean real budget relief. The city should quantify avoided healthcare costs and redirect those savings into charging subsidies for low-income drivers."
+    },
+    {
+      "id": "s29",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "Perfecting sourdough at altitude",
+      "body": "High-elevation baking demands longer fermentation and extra hydration; my rye starter finally holds its crumb after switching to a cast-iron Dutch oven and a slower rise."
+    },
+    {
+      "id": "s30",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "Photographing the Andromeda galaxy",
+      "body": "Stacking two hundred exposures with a tracking mount pulled faint spiral arms out of the noise; light pollution filters made the biggest difference for my backyard astrophotography."
+    },
+    {
+      "id": "s31",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "Knitting a cabled winter sweater",
+      "body": "The eight-stitch cable pattern looks daunting but memorizing a four-row repeat makes it meditative; merino-alpaca blend gives the warmth without the itch."
+    },
+    {
+      "id": "s32",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "The offside rule finally explained",
+      "body": "Defenders played a high line all match, and the striker timed his run perfectly to stay level until the through-ball; that is why the goal stood despite the appeals."
+    },
+    {
+      "id": "s33",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "Pruning tomatoes for a bigger harvest",
+      "body": "Removing the suckers between the main stem and branches channels energy into fruit; consistent morning watering prevented the blossom-end rot I fought last summer."
+    },
+    {
+      "id": "s34",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "Understanding jazz chord voicings",
+      "body": "Rootless voicings free your left hand to imply the harmony while the bass covers the root; practicing ii-V-I in every key unlocked my improvisation overnight."
+    },
+    {
+      "id": "s35",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "Tracking humpback whale migration",
+      "body": "Tagged pods traveled thousands of kilometers to warm breeding lagoons; hydrophone recordings revealed songs shifting subtly between seasons across the entire population."
+    },
+    {
+      "id": "s36",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "Beginner mistakes in chess openings",
+      "body": "Bringing the queen out too early invites tempo loss; developing knights and bishops before castling gave my games a far more solid foundation this month."
+    },
+    {
+      "id": "s37",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "Fermenting kimchi at home",
+      "body": "A three-day counter ferment before refrigeration gave the napa cabbage that tangy depth; gochugaru quality mattered more than I expected for both color and heat."
+    },
+    {
+      "id": "s38",
+      "label": "offtopic",
+      "stance": "Neutral",
+      "headline": "Restoring an antique pocket watch",
+      "body": "Cleaning the escapement under magnification and re-oiling the jewels brought the movement back to life; sourcing a period-correct mainspring took months of hunting."
+    },
+    {
+      "id": "s39",
+      "label": "normal",
+      "stance": "Support",
+      "headline": "About time we acted",
+      "body": "I'm glad the council is finally taking climate seriously. The 2030 timeline feels reasonable if the subsidies actually arrive."
+    },
+    {
+      "id": "s40",
+      "label": "normal",
+      "stance": "Oppose",
+      "headline": "Too fast for working families",
+      "body": "I support cleaner air but 2030 is aggressive. Many families can't afford an EV yet and the charging stations aren't there."
+    },
+    {
+      "id": "s41",
+      "label": "normal",
+      "stance": "Neutral",
+      "headline": "Show us the charging plan",
+      "body": "The idea is fine but I want to see the concrete rollout schedule for public chargers before I trust the promises."
+    },
+    {
+      "id": "s42",
+      "label": "normal",
+      "stance": "Support",
+      "headline": "My next car will be electric",
+      "body": "This nudges me to go electric sooner. If the subsidy is real I'll switch well before the deadline."
+    },
+    {
+      "id": "s43",
+      "label": "normal",
+      "stance": "Oppose",
+      "headline": "Low-income drivers ignored",
+      "body": "The critics are right that poorer drivers get hit hardest. Subsidies need to be generous or this just punishes people."
+    },
+    {
+      "id": "s44",
+      "label": "normal",
+      "stance": "Neutral",
+      "headline": "Depends on the details",
+      "body": "Whether this works comes down to execution. Good charging coverage and fair subsidies would make it a smart policy."
+    },
+    {
+      "id": "s45",
+      "label": "normal",
+      "stance": "Support",
+      "headline": "Cities should lead",
+      "body": "Local governments taking the first step on emissions is exactly how change starts. Proud of Riverton for this."
+    },
+    {
+      "id": "s46",
+      "label": "normal",
+      "stance": "Oppose",
+      "headline": "Charging isn't ready",
+      "body": "Banning sales before the infrastructure exists is backwards. Build the chargers first, then set the deadline."
+    },
+    {
+      "id": "s47",
+      "label": "normal",
+      "stance": "Support",
+      "headline": "Worth the transition",
+      "body": "Change is hard but the health and climate benefits make this worthwhile. The subsidies should ease the pain."
+    },
+    {
+      "id": "s48",
+      "label": "normal",
+      "stance": "Neutral",
+      "headline": "Cautiously optimistic",
+      "body": "I like the ambition but I've seen promises slip before. Hold the council accountable on the charging expansion."
+    },
+    {
+      "id": "s49",
+      "label": "normal",
+      "stance": "Oppose",
+      "headline": "What about rural trips?",
+      "body": "For those of us who drive far outside the city regularly, EV range and charging still worry me a lot."
+    },
+    {
+      "id": "s50",
+      "label": "normal",
+      "stance": "Support",
+      "headline": "Good for the next generation",
+      "body": "I want my kids breathing cleaner air. If we start now, 2030 gives us enough runway to adapt."
+    },
+    {
+      "id": "s51",
+      "label": "user",
+      "stance": "Oppose",
+      "headline": "Ban ignores delivery drivers",
+      "body": "Gig couriers on tight margins cannot afford new EVs by 2030 without targeted grants."
+    }
+  ]
+}

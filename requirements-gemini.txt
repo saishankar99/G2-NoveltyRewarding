@@ -1,0 +1,4 @@
+# Optional: only needed to REGENERATE the golden dataset with Gemini.
+# Requires Python >= 3.9. The core pipeline and tests run fully locally
+# without this, using the committed data/submissions.json fallback.
+google-generativeai>=0.7.0
