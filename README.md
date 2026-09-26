@@ -249,5 +249,3 @@ python demo.py --headline "Ban ignores delivery drivers" --body "Gig couriers on
 - The automated tests read only the labelled **seed** items, so appended `user`
   submissions never affect the evaluation.
 ```
-
----
