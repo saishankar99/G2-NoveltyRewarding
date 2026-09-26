@@ -248,4 +248,4 @@ python demo.py --headline "Ban ignores delivery drivers" --body "Gig couriers on
 - Because the corpus grows, an identical later submission correctly scores lower.
 - The automated tests read only the labelled **seed** items, so appended `user`
   submissions never affect the evaluation.
-```
+
